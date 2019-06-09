@@ -1,5 +1,4 @@
 # mwbparser - MWB Parser for golang
-----
 
 ### Features
 
